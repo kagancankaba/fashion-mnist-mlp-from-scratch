@@ -37,7 +37,7 @@ Implementation of a Multi-Layer Perceptron (MLP) built entirely from scratch usi
 - `report.pdf` — Detailed project report
 
 ### Results Example
-<img src="screenshots/results.png"/>
+<img src="screenshots/results.png" width="400"/>
 
 ## Usage
 
