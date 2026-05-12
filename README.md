@@ -36,6 +36,9 @@ Implementation of a Multi-Layer Perceptron (MLP) built entirely from scratch usi
 - `notebook.ipynb` — Jupyter notebook version
 - `report.pdf` — Detailed project report
 
+### Results Example
+<img src="screenshots/results.png"/>
+
 ## Usage
 
 ```bash
